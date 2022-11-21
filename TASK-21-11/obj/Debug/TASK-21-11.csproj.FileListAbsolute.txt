@@ -1,0 +1,8 @@
+C:\Users\orange\source\repos\charp-task\TASK-21-11\bin\Debug\TASK-21-11.exe.config
+C:\Users\orange\source\repos\charp-task\TASK-21-11\bin\Debug\TASK-21-11.exe
+C:\Users\orange\source\repos\charp-task\TASK-21-11\bin\Debug\TASK-21-11.pdb
+C:\Users\orange\source\repos\charp-task\TASK-21-11\obj\Debug\TASK-21-11.csproj.AssemblyReference.cache
+C:\Users\orange\source\repos\charp-task\TASK-21-11\obj\Debug\TASK-21-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\orange\source\repos\charp-task\TASK-21-11\obj\Debug\TASK-21-11.csproj.CoreCompileInputs.cache
+C:\Users\orange\source\repos\charp-task\TASK-21-11\obj\Debug\TASK-21-11.exe
+C:\Users\orange\source\repos\charp-task\TASK-21-11\obj\Debug\TASK-21-11.pdb
