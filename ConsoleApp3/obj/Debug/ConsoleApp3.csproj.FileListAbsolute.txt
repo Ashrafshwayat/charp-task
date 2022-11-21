@@ -1,0 +1,16 @@
+C:\Users\orange\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\orange\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\orange\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\orange\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\orange\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\orange\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\orange\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\orange\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\orange\source\repos\charp-task\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
