@@ -1,0 +1,8 @@
+C:\Users\orange\source\repos\task3-23-11-2022new22\bin\Debug\task3-23-11-2022new22.exe.config
+C:\Users\orange\source\repos\task3-23-11-2022new22\bin\Debug\task3-23-11-2022new22.exe
+C:\Users\orange\source\repos\task3-23-11-2022new22\bin\Debug\task3-23-11-2022new22.pdb
+C:\Users\orange\source\repos\task3-23-11-2022new22\obj\Debug\task3-23-11-2022new22.csproj.AssemblyReference.cache
+C:\Users\orange\source\repos\task3-23-11-2022new22\obj\Debug\task3-23-11-2022new22.csproj.SuggestedBindingRedirects.cache
+C:\Users\orange\source\repos\task3-23-11-2022new22\obj\Debug\task3-23-11-2022new22.csproj.CoreCompileInputs.cache
+C:\Users\orange\source\repos\task3-23-11-2022new22\obj\Debug\task3-23-11-2022new22.exe
+C:\Users\orange\source\repos\task3-23-11-2022new22\obj\Debug\task3-23-11-2022new22.pdb
